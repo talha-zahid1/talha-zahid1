@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Muhammad Talha 👋  
 
 🎓 *Software Engineering Student* | 🌱 *Tech Enthusiast*
