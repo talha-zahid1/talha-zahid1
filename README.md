@@ -27,15 +27,6 @@ Bachelor of Science in Software Engineering (BSSE)
 -
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ## 📫 Contact Me
 - 📍 Karachi, Pakistan  
 - ✉ *Email:* mt109208@gmail.com
