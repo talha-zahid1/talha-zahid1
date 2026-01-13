@@ -6,7 +6,6 @@
 ## 🚀 About Me
 🎓 Currently pursuing BS in Software Engineering at UBIT, University of Karachi
 💡 Passionate about coding, problem-solving, and building efficient software solutions
-
 ⚙ Backend Developer | Experienced in designing and implementing server-side applications
 🚀 Always exploring new technologies to sharpen my development skills  
 ---
