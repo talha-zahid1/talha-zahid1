@@ -12,8 +12,7 @@
 ## 🧠 Skills & Technologies
 | Category | Skills |
 |-----------|--------|
-| *Programming Languages* | C++, Java |
-| *Web Development* | HTML, CSS |
+| *Programming Languages* | C++, Java,python,java script |
 | *Other Interests* | Algorithms, Software Design, Object-Oriented Programming |
 ---
 ## 🏫 Education
