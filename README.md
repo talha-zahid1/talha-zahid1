@@ -1,37 +1,53 @@
 # Hi, I'm Muhammad Talha 👋  
-
-🎓 *Software Engineering Student* | 🌱 *Tech Enthusiast*
-
+🎓 *Software Engineering Student* | 🌱 *Tech Enthusiast*  
 ---
+
 ## 🚀 About Me
-🎓 Currently pursuing BS in Software Engineering at UBIT, University of Karachi
-💡 Passionate about coding, problem-solving, and building efficient software solutions
-⚙ Backend Developer | Experienced in designing and implementing server-side applications
-🚀 Always exploring new technologies to sharpen my development skills  
+🎓 Currently pursuing BS in Software Engineering at UBIT, University of Karachi  
+💡 Passionate about coding, problem-solving, and building scalable backend systems  
+⚙ Backend Developer | Experienced in Django, and REST API development  
+🚀 Always exploring new technologies to improve my development skills  
+
 ---
+
 ## 🧠 Skills & Technologies
+
 | Category | Skills |
-|-----------|--------|
-| *Programming Languages* | C++, Java,python,java script |
-| *Other Interests* | Algorithms, Software Design, Object-Oriented Programming |
+|----------|--------|
+| Programming Languages | C++, Java, Python, JavaScript |
+| Backend Development | Django, Django REST Framework, Node.js, Express.js, FastAPI |
+| Databases | MySQL, SQLite |
+| APIs & Auth | REST APIs, JWT, Session Authentication, RBAC |
+| Tools & Concepts | Git, GitHub, OOP, Data Structures, Algorithms |
+
 ---
+
 ## 🏫 Education
-*University of Karachi – UBIT Department*  
+**University of Karachi – UBIT Department**  
 Bachelor of Science in Software Engineering (BSSE)
+
 ---
+
 ## 🌟 Projects
-- 🧩 *Binary Tree Implementation (Java)* – Handles insertion, traversal, and leaf node detection  
-- 💾 *C++ Console Applications* – Focused on problem-solving and logic building 
-- 💾 *java Console Applications* – Focused on problem-solving and logic building  
-- 💬 *Broadcast Channel (Server–Client Chat System)* – A console-based communication app where a central server displays and relays messages sent by multiple clients in real-time  
--
+
+- 🧠 **Talent Rank AI** – Resume parsing system with ranking, email notifications, and search features  
+- 💬 **Chat Application** – Real-time messaging system with client-server architecture  
+- 🤖 **Chatbot AI** – AI chatbot using Gemini API with conversation history stored in database  
+- 📍 **Nearby Places Recommender** – Location-based system suggesting places using geolocation APIs  
+- 🧩 **Django Student API** – Role-based access control (Admin/Students) with permissions and authentication  
+- 📦 **Product API (DRF)** – REST API with JWT authentication and CRUD operations  
+- 🌳 **Binary Tree Project (Java)** – Implemented insertion, traversal, and leaf node detection  
+- 💻 **C++ Console Applications** – Problem-solving based CLI applications  
+- ☕ **Java Console Applications** – Logic-building and OOP practice programs  
+
 ---
 
 ## 📫 Contact Me
 - 📍 Karachi, Pakistan  
-- ✉ *Email:* mt109208@gmail.com
-- 💼 *GitHub:* [github.com/talha-zahid1]
+- ✉ **Email:** talhazahid.se@gmail.com  
+- 💼 **LinkedIn:** :linkedin.com/in/muhammad-talha-91687b37a
+- 🐙 **GitHub:** [github.com/talha-zahid1]
 
 ---
 
-⭐ “Any fool can write code that a computer can understand . good programers write a code that human can understand”
+⭐ “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
