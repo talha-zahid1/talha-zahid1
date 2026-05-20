@@ -45,9 +45,8 @@ Bachelor of Science in Software Engineering (BSSE)
 ## 📫 Contact Me
 - 📍 Karachi, Pakistan  
 - ✉ **Email:** talhazahid.se@gmail.com  
-- 💼 **LinkedIn:** :linkedin.com/in/muhammad-talha-91687b37a
-- 🐙 **GitHub:** [github.com/talha-zahid1]
-
+- 💼 **LinkedIn:** [linkedin.com/in/muhammad-talha-91687b37a](https://www.linkedin.com/in/muhammad-talha-91687b37a)
+- 🐙 **GitHub:** [github.com/talha-zahid1](https://github.com/talha-zahid1)
 ---
 
 ⭐ “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
