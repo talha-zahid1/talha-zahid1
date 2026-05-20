@@ -15,9 +15,9 @@
 | Category | Skills |
 |----------|--------|
 | Programming Languages | C++, Java, Python, JavaScript |
-| Backend Development | Django, Django REST Framework, Node.js, Express.js, FastAPI |
-| Databases | MySQL, SQLite |
-| APIs & Auth | REST APIs, JWT, Session Authentication, RBAC |
+| Backend Development | Django, Django REST Framework |
+| Databases | MySQL, SQLite,PostgreSql |
+| APIs & Auth | REST APIs, JWT,  RBAC |
 | Tools & Concepts | Git, GitHub, OOP, Data Structures, Algorithms |
 
 ---
