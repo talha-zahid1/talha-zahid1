@@ -5,7 +5,7 @@
 ## 🚀 About Me
 🎓 Currently pursuing BS in Software Engineering at UBIT, University of Karachi  
 💡 Passionate about coding, problem-solving, and building scalable backend systems  
-⚙ Backend Developer | Experienced in Django, and REST API development  
+⚙️ Full-Stack Developer | Experienced in Python Backend Development and Frontend Development with React & Tailwind CSS  
 🚀 Always exploring new technologies to improve my development skills  
 
 ---
@@ -14,11 +14,11 @@
 
 | Category | Skills |
 |----------|--------|
-| Programming Languages | C++, Java, Python, JavaScript |
-| Backend Development | Django, Django REST Framework |
+| Programming Languages | C++, Java, Python, JavaScript,html,css |
+| Backend Development | Django, Django REST Framework,FAST API |
+| Frontend Development | React, Tailwind CSS |
 | Databases | MySQL, SQLite,PostgreSql |
-| APIs & Auth | REST APIs, JWT,  RBAC |
-| Tools & Concepts | Git, GitHub, OOP, Data Structures, Algorithms |
+
 
 ---
 
